@@ -23,6 +23,7 @@ Analysis of synchrotron scattering data obtained during 2D scan across a crack t
    </ul>
 Reference: <a href="https://www.sciencedirect.com/science/article/pii/S0032386113008288">Brüning, K. Schneider, S.V. Roth, G. Heinrich: Strain-induced crystallization around a crack tip in natural rubber under dynamic load. Polymer 54 (2013), 6200</a></p>
 <p><h3>Result:</h3>
+<img src="docmap.gif">
 <b>Legend:</b><br>
 white: background<br>
 black: sample<br>
