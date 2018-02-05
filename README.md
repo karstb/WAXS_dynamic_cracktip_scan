@@ -1,6 +1,6 @@
 # WAXS_dynamic_cracktip_scan
 Analysis of synchrotron scattering data obtained during 2D scan across a crack tip cycled at 1Hz
-
+<b>Goal:<b> Map out the degree of crystallinity (caused by strain-induced crystallization) around a crack tip in a natural rubber sample cycled at 1 Hz. Broader context: Compare crystallinity at different loading conditions (static, dynamic) and relate it to material strength / failure modes.
 <ul>
     <li>
         Rubber sample with crack mounted on dynamic tensile testing machine cycling at 1 Hz (rubber sample ca. 10mm x 2mm x 1mm, crack length 0.5mm)
@@ -18,7 +18,7 @@ Analysis of synchrotron scattering data obtained during 2D scan across a crack t
    Strain is not being recorded because tensile machine did not have this option. To overcome this problem, two metal fingers are mounted on the tensile machine that produce shadows on the X-ray detector, from the position of which the strain (nominal strain, elongation) can be computed.
          </li>
     <li>
-   This script does the complete data processing from the raw data to the final animated gif.
+   This script does the complete data processing from the raw data to the final animated gif showing the local relative degree of crystallinity around a crack tip while being cycled.
     </li>
    </ul>
 Example two-dimensional diffraction data file with shadows:<br>
