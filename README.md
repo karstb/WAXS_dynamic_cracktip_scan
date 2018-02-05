@@ -6,7 +6,7 @@ Analysis of synchrotron scattering data obtained during 2D scan across a crack t
         Rubber sample with crack mounted on dynamic tensile testing machine cycling at 1 Hz (rubber sample ca. 10mm x 2mm x 1mm, crack length 0.5mm)
     </li>
     <li>
-        Microfocus X-ray beam, beam size much smaller scan step size to reduce spatial blurring due to finite exposure time
+        Microfocus X-ray beam, beam size much smaller than scan step size to reduce spatial blurring due to finite exposure time
     </li>
     <li>
    Diffraction data recorded at 50 Hz using Pilatus 300K detector, cbf format, total 50,000 images, images have time stamps, scan position is encoded in filenames
